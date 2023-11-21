@@ -1,4 +1,4 @@
-## AMO / PISIM > Privacy Policy
+## AMO / PISIM - Privacy Policy
 
 **Information Collection and Use**
 
