@@ -1,5 +1,3 @@
-## AMO / PISIM - Privacy Policy
-
 **Information Collection and Use**
 
 The AMO and PISIM applications do not collect any personal data from their users.
